@@ -1,0 +1,22 @@
+{
+  "name": "lab3-async",
+  "version": "1.0.0",
+  "description": "lab3",
+  "main": "edit-file.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BGElliott206/lab3-Async.git"
+  },
+  "author": "Brad Elliott",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BGElliott206/lab3-Async/issues"
+  },
+  "homepage": "https://github.com/BGElliott206/lab3-Async#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
